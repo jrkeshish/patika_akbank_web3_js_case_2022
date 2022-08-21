@@ -1,1 +1,1 @@
-# patika_akbank_web3_js_case_2022
+# 2022.08/ Akbank Web3 Practicum/ Javascript/ Odd or Even Case
